@@ -1,28 +1,42 @@
-# 🫀 Heart Disease Detection using Machine Learning
+# 🫀 Heart Disease Prediction using Machine Learning
 
-This project focuses on predicting the presence of heart disease using machine learning techniques. The goal is to analyze medical attributes and build an interpretable model that helps understand key risk factors.
+## 📌 Project Overview
+This Machine Learning project predicts the likelihood of heart disease using patient health data. The project includes data preprocessing, exploratory data analysis, model training, and performance evaluation.
 
-## 📌 Project Highlights
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Correlation heatmap visualization
-- Random Forest classification model
-- Feature importance analysis
-- Model evaluation using performance metrics
+## 🎯 Business Objectives
+- Predict heart disease risk.
+- Identify important health factors.
+- Build and evaluate a classification model.
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 - Python
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 
-## 📊 Visualizations
-Correlation Heatmap and Feature Importance plots are included to interpret the relationships between features and the target variable.
+## 📊 Analysis Performed
+- Data Cleaning
+- Exploratory Data Analysis
+- Correlation Analysis
+- Feature Importance
+- Model Training
+- Model Evaluation
 
-## 🚀 Outcome
-The model successfully identifies important medical features contributing to heart disease prediction and demonstrates the practical application of machine learning in healthcare analytics.
+## 🚀 Skills Demonstrated
+- Machine Learning
+- Classification
+- Feature Engineering
+- Data Visualization
+- Model Evaluation
+- Healthcare Analytics
 
----
-*This project was developed as part of my learning journey in Data Science and Machine Learning.*
+## 📁 Project Structure
+- Dataset
+- Jupyter Notebook / Python Script
+- Trained Model
+- Visualizations
+
+## 👩‍💻 Author
+**Hajra Nausheen**
